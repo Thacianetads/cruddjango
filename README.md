@@ -1,4 +1,4 @@
-CRUD Django - Gerenciamento de Membros
+# CRUD Django - Gerenciamento de Membros
 
 Este projeto é uma aplicação web feita com Django para gerenciar membros. Permite criar, visualizar, editar e excluir membros com os seguintes dados:
 
