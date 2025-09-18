@@ -22,7 +22,7 @@ Este projeto é uma aplicação web feita com Django para gerenciar membros. Per
 
 Python
 
-Django (Views, Templates e Forms)
+Django
 
 SQLite (banco de dados padrão)
 
