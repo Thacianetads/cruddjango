@@ -10,13 +10,13 @@ Este projeto é uma aplicação web feita com Django para gerenciar membros. Per
 
 # ⚙️ Funcionalidades
 
-Listar todos os membros cadastrados
+-Listar todos os membros cadastrados
 
-Cadastrar novo membro
+-Cadastrar novo membro
 
-Editar dados de um membro existente
+-Editar dados de um membro existente
 
-Excluir um membro
+-Excluir um membro
 
 # 📚 Tecnologias utilizadas
 
@@ -42,3 +42,6 @@ Acesse a aplicação no navegador:
 
 http://127.0.0.1:8000/
 
+# 👩‍💻 Autora
+
+Thaciane – Projeto desenvolvido para prática de CRUD com Django e views tradicionais.
